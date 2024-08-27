@@ -13,8 +13,6 @@ section ul {
   list-style: none;
   grid-template-columns: 1fr 1fr 1fr;
 }
-
-
 li {
   padding: 16px;
   border-radius: 8px;
